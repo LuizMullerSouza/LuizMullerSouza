@@ -19,7 +19,7 @@ Me chamo Luiz Müller Sales de Souza, tenho 18 anos e sou de Mato Grosso do Sul.
             src="https://img.shields.io/badge/e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://github.com/LuizMullerSouza?tab=repositories sort=stargazers">
+    <a href="https://github.com/LuizMullerSouza?tab=repositories&sort=stargazers">
         <img 
             alt="Total de Estrelas" 
             title="Total de Estrelas GitHub" 
@@ -61,6 +61,13 @@ Me chamo Luiz Müller Sales de Souza, tenho 18 anos e sou de Mato Grosso do Sul.
     height="43px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   />
+  <img 
+    alt="Portugol"
+    title="Portugol"
+    width="43px"
+    height="43px"
+    src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png"
+  />
 </div>
 
 <br/>
@@ -81,7 +88,7 @@ Me chamo Luiz Müller Sales de Souza, tenho 18 anos e sou de Mato Grosso do Sul.
         align="left"
         alt="GitHub Stats"
         height="200px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMullerSouza&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=3"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMullerSouza&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=5"
     />
 
 </p>
