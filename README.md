@@ -43,9 +43,9 @@ Me chamo Luiz Müller Sales de Souza, tenho 18 anos e sou de Mato Grosso do Sul.
   <img 
     alt="C"
     title="C"
-    width="45px"
-    height="45px"
-    src="https://img.icons8.com/color/600/c-programming.png" 
+    width="36px"
+    height="40px"
+    src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" 
   />
   <img 
     alt="C++"
@@ -69,8 +69,6 @@ Me chamo Luiz Müller Sales de Souza, tenho 18 anos e sou de Mato Grosso do Sul.
     src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png"
   />
 </div>
-
-<br/>
 
 ---
 
