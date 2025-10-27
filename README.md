@@ -37,7 +37,7 @@ Me chamo Luiz Müller Sales de Souza, tenho 18 anos e sou de Mato Grosso do Sul.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🐋 Linguagens e Tecnologias
 
 <div style="display: flex; align-items: center; gap: 3px;">
   <img 
@@ -61,6 +61,27 @@ Me chamo Luiz Müller Sales de Souza, tenho 18 anos e sou de Mato Grosso do Sul.
     height="43px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   />
+  <img 
+    alt="JavaScript"
+    title="JavaScript"
+    width="40px"
+    height="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />
+  <img 
+    alt="HTML5"
+    title="HTML5"
+    width="40px"
+    height="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  />
+  <img 
+    alt="CSS3"
+    title="CSS3"
+    width="40px"
+    height="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  />      
   <img 
     alt="Portugol"
     title="Portugol"
@@ -86,7 +107,7 @@ Me chamo Luiz Müller Sales de Souza, tenho 18 anos e sou de Mato Grosso do Sul.
         align="left"
         alt="GitHub Stats"
         height="200px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMullerSouza&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=5"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMullerSouza&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=7"
     />
 
 </p>
